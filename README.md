@@ -1,24 +1,7 @@
 # emulators-codelab
 
-This repository contains the companion code for the [Firebase Local Emulator Suite codelab][codelab].
-For more information on the Firebase Emulator Suite check out the [learning pathway][pathway].
-
-## How to use this repository
-
-To begin, follow along with the [Local Development with the Firebase Emulator Suite Codelab][codelab]. 
-
-There are two folders in this repository:
-
-*  `codelab-initial-state` - the starting code for the codelab, which you will complete.
-*  `codelab-final-state` - the final code of the codelab, which you can use as a reference if you get stuck or want to skip ahead to the end result.
+Test result
+![image](https://github.com/tiarapus/emulators-codelab/assets/86874248/6462adf4-a4fc-4a43-a3ec-86f5c61c620b)
+![image](https://github.com/tiarapus/emulators-codelab/assets/86874248/b988930c-0051-463a-8fd7-963a90274bfc)
 
 
-## How to make contributions
-Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
-
-
-## License
-See [LICENSE](LICENSE)
-
-[codelab]: https://firebase.google.com/codelabs/firebase-emulator
-[pathway]: https://firebase.google.com/learn/pathways/firebase-emulators
